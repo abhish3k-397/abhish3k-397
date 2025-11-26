@@ -9,6 +9,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abhish3k-397&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhish3k-397&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://raw.githubusercontent.com/abhi-sh3k/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/abhi-sh3k/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
