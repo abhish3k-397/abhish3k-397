@@ -75,7 +75,8 @@
 ---
 
 ### 🧮 Profile Views
-[![](https://visitcount.itsvg.in/api?id=abhish3k-397&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=abhish3k-397&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 
 ---
