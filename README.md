@@ -64,8 +64,8 @@
 ---
 
 ## ✨ Dynamic Stats
-![](https://raw.githubusercontent.com/abhi-sh3k/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/abhi-sh3k/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/abhish3k-397/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/abhish3k-397/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ---
 
