@@ -15,12 +15,12 @@
                    -`                    <b>abhishek@hyprland</b>
                   .o+`                    -----------------
                       `ooo/                    <b>OS</b>: Arch Linux x86_64
-                           `+oooo:                   <b>Host</b>: Cyber Security Student
-                          `+oooooo:                  <b>Kernel</b>: 6.9.1-arch1-1-custom
-                                 -+oooooo+:                 <b>Uptime</b>: 3 days, 47 reboots (it's fine)
-                              `/:-:++oooo+:                <b>Packages</b>: 1337 (pacman), 420 (aur)
-                         `/++++/+++++++:               <b>Shell</b>: zsh 5.9
-                               `/++++++++++++++:              <b>WM</b>: Hyprland (Wayland)
+                            `+oooo:                   <b>Host</b>: Cyber Security Student
+                           `+oooooo:                  <b>Kernel</b>: 6.9.1-arch1-1-custom
+                                   -+oooooo+:                 <b>Uptime</b>: 3 days, 47 reboots (it's fine)
+                               `/:-:++oooo+:                <b>Packages</b>: 1337 (pacman), 420 (aur)
+                    `/++++/+++++++:               <b>Shell</b>: zsh 5.9
+                   `/++++++++++++++:              <b>WM</b>: Hyprland (Wayland)
           `/+++ooooooooooooo/`            <b>Theme</b>: Tokyonight-Dark
          ./ooosssso++osssssso+`           <b>Terminal</b>: kitty
         .oossssso-````/ossssss+`          <b>CPU</b>: Overclocked & Overworked
