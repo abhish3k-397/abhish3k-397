@@ -13,6 +13,29 @@
 └─$ neofetch --ascii_distro arch
 ```
 
+<pre align="left">
+<code>                   -`                    <b>abhishek@hyprland</b>
+                  .o+`                    -----------------
+                 `ooo/                    <b>OS</b>: Arch Linux x86_64
+                `+oooo:                   <b>Host</b>: Cyber Security Student
+               `+oooooo:                  <b>Kernel</b>: 6.9.1-arch1-1-custom
+               -+oooooo+:                 <b>Uptime</b>: 3 days, 47 reboots (it's fine)
+             `/:-:++oooo+:                <b>Packages</b>: 1337 (pacman), 420 (aur)
+            `/++++/+++++++:               <b>Shell</b>: zsh 5.9
+           `/++++++++++++++:              <b>WM</b>: Hyprland (Wayland)
+          `/+++ooooooooooooo/`            <b>Theme</b>: Tokyonight-Dark
+         ./ooosssso++osssssso+`           <b>Terminal</b>: kitty
+        .oossssso-````/ossssss+`          <b>CPU</b>: Overclocked & Overworked
+       -osssssso.      :ssssssso.         <b>GPU</b>: Just enough for the blur
+      :osssssss/        osssso+++.        <b>Memory</b>: 6.9GB / 16GB (rest is Chrome tabs)
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+</code>
+</pre>
+
 <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/WM-Hyprland-89B4FA?style=for-the-badge&logo=wayland&logoColor=white"/>
 <img src="https://img.shields.io/badge/Current_State-Breaking_Dotfiles-F38BA8?style=for-the-badge"/>
