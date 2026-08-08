@@ -19,13 +19,13 @@
                            `+oooooo:                  <b>Kernel</b>: 6.9.1-arch1-1-custom
                                      -+oooooo+:                 <b>Uptime</b>: 3 days, 47 reboots (it's fine)
                                `/:-:++oooo+:                <b>Packages</b>: 1337 (pacman), 420 (aur)
-               `/++++/+++++++:               <b>Shell</b>: zsh 5.9
-                  `/++++++++++++++:              <b>WM</b>: Hyprland (Wayland)
-          `/+++ooooooooooooo/`            <b>Theme</b>: Tokyonight-Dark
-         ./ooosssso++osssssso+`           <b>Terminal</b>: kitty
-        .oossssso-````/ossssss+`          <b>CPU</b>: Overclocked & Overworked
-       -osssssso.      :ssssssso.         <b>GPU</b>: Just enough for the blur
-      :osssssss/        osssso+++.        <b>Memory</b>: 6.9GB / 16GB (rest is Chrome tabs)
+          `/++++/+++++++:               <b>Shell</b>: zsh 5.9
+                `/++++++++++++++:              <b>WM</b>: Hyprland (Wayland)
+                `/+++ooooooooooooo/`            <b>Theme</b>: Tokyonight-Dark
+       ./ooosssso++osssssso+`           <b>Terminal</b>: kitty
+                .oossssso-````/ossssss+`          <b>CPU</b>: Overclocked & Overworked
+               -osssssso.      :ssssssso.         <b>GPU</b>: Just enough for the blur
+                      :osssssss/        osssso+++.        <b>Memory</b>: 6.9GB / 16GB (rest is Chrome tabs)
      /ossssssss/        +ssssooo/-
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                 `.-/+oso:
