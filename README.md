@@ -10,7 +10,7 @@
 
 <pre align="left">
 <code>┌──(abhishek㉿hyprland)-[~]
-└─$ neofetch --ascii_distro arch
+      └─$ neofetch --ascii_distro arch
 
                    -`                    <b>abhishek@hyprland</b>
                   .o+`                    -----------------
