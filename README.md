@@ -1,23 +1,21 @@
 <div align="center">
 
-# ⚡ `whoami` → Abhishek ⚡
-
-### <i>"I use Arch, btw."</i> 🗿
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1793D1,100:38BDF8&height=200&section=header&text=whoami%20%E2%86%92%20Abhishek&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=%22I%20use%20Arch%2C%20btw.%22%20%F0%9F%97%BF&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Cyber+Security+Student+%7C+Ethical+Hacker;Arch+Linux+%2B+Hyprland+Elitist;Dotfiles+Breaker+%26+Rice+Enthusiast;Securing+Networks...+When+Hyprland+Loads" alt="Typing SVG" />
 </a>
 
-```
+<br/>
 
+```bash
 ┌──(abhishek㉿hyprland)-[~]
-└─$ neofetch --ascii\_distro arch
-
+└─$ neofetch --ascii_distro arch
 ```
 
-![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/WM-Hyprland-005577?style=for-the-badge&logo=wayland&logoColor=white)
-![Status](https://img.shields.io/badge/Current_State-Breaking_Dotfiles-FF5555?style=for-the-badge)
+<img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/WM-Hyprland-89B4FA?style=for-the-badge&logo=wayland&logoColor=white"/>
+<img src="https://img.shields.io/badge/Current_State-Breaking_Dotfiles-F38BA8?style=for-the-badge"/>
 
 </div>
 
@@ -77,12 +75,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhish3k-397&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=abhish3k-397&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhish3k-397&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com?user=abhish3k-397&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=F38BA8&currStreakLabel=38BDF8" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhish3k-397&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhish3k-397&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" height="165"/>
 
 </div>
 
@@ -91,7 +89,16 @@
 ## 📊 Activity Matrix
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhish3k-397&theme=tokyonight" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhish3k-397&theme=tokyo-night&bg_color=0d1117&color=38BDF8&line=38BDF8&point=F38BA8&hide_border=true" width="95%" />
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhish3k-397/abhish3k-397/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/abhish3k-397/abhish3k-397/output/github-contribution-grid-snake.svg" width="95%"/>
+</picture>
+
+<sub>⚠️ snake animation needs a one-time GitHub Action setup — see notes below</sub>
 </div>
 
 ---
@@ -119,4 +126,17 @@ $ pacman -Syyu && sudo rm -rf / --no-preserve-root
 
 <sub>Made with 🩸, ☕, and way too many `hyprctl reload`s.</sub>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1793D1&height=100&section=footer" width="100%"/>
+
 </div>
+
+---
+
+<details>
+<summary>🛠️ Setup notes (click to expand)</summary>
+
+- **Snake animation**: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your `abhish3k-397/abhish3k-397` repo — it generates the `output` branch the two `<picture>` URLs above point to. Until that Action runs once, those two images will show as broken.
+- **Stats cards not loading / looking cut off**: `github-readme-stats` and `streak-stats` run on shared free servers and occasionally rate-limit or go down — if a card breaks, refresh in a few minutes or self-host via Vercel (one-click deploy from their repos).
+- All cards above are pinned to the **tokyonight** palette with a matching `#0d1117` background so they blend into GitHub's dark mode instead of showing default white/pink boxes.
+
+</details>
