@@ -8,13 +8,11 @@
 
 <br/>
 
-```bash
-┌──(abhishek㉿hyprland)-[~]
-└─$ neofetch --ascii_distro arch
-```
-
 <pre align="left">
-<code>                   -`                    <b>abhishek@hyprland</b>
+<code>┌──(abhishek㉿hyprland)-[~]
+└─$ neofetch --ascii_distro arch
+
+                   -`                    <b>abhishek@hyprland</b>
                   .o+`                    -----------------
                  `ooo/                    <b>OS</b>: Arch Linux x86_64
                 `+oooo:                   <b>Host</b>: Cyber Security Student
