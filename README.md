@@ -12,7 +12,7 @@
 
 ```
 ┌──(abhishek㉿hyprland)-[~]
-└─$ neofetch --ascii_distro arch
+└─$ neofetch
 
                    -`                    abhishek@hyprland
                   .o+`                    -----------------
