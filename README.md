@@ -10,57 +10,29 @@
 
 <div align="left">
 
-<table>
-<tr>
-<td>
-
 ```
-                   -`
-                  .o+`
-                 `ooo/
-                `+oooo:
-               `+oooooo:
-               -+oooooo+:
-             `/:-:++oooo+:
-            `/++++/+++++++:
-           `/++++++++++++++:
-          `/+++ooooooooooooo/`
-         ./ooosssso++osssssso+`
-        .oossssso-````/ossssss+`
-       -osssssso.      :ssssssso.
-      :osssssss/        osssso+++.
+abhishek@hyprland ~> neofetch 
+
+                   -`                     abhishek@hyprland
+                  .o+`                    -----------------
+                 `ooo/                    OS: Arch Linux x86_64
+                `+oooo:                   Host: Cyber Security Student
+               `+oooooo:                  Kernel: 6.9.1-arch1-1-custom
+               -+oooooo+:                 Uptime: 3 days, 47 reboots (it's fine)
+             `/:-:++oooo+:                Packages: 1337 (pacman), 420 (aur)
+            `/++++/+++++++:               Shell: zsh 5.9
+           `/++++++++++++++:              WM: Hyprland (Wayland)
+          `/+++ooooooooooooo/`            Theme: Tokyonight-Dark
+         ./ooosssso++osssssso+`           Terminal: kitty
+        .oossssso-````/ossssss+`          CPU: Overclocked & Overworked
+       -osssssso.      :ssssssso.         GPU: Just enough for the blur
+      :osssssss/        osssso+++.        Memory: 6.9GB / 16GB (rest is Chrome tabs)
      /ossssssss/        +ssssooo/-
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/
 ```
-
-</td>
-<td valign="top">
-
-```
-abhishek@hyprland ~> neofetch --ascii_distro arch
-
-abhishek@hyprland
------------------
-OS: Arch Linux x86_64
-Host: Cyber Security Student
-Kernel: 6.9.1-arch1-1-custom
-Uptime: 3 days, 47 reboots (it's fine)
-Packages: 1337 (pacman), 420 (aur)
-Shell: fish 3.7.0
-WM: Hyprland (Wayland)
-Theme: Tokyonight-Dark
-Terminal: kitty
-CPU: Overclocked & Overworked
-GPU: Just enough for the blur
-Memory: 6.9GB / 16GB (rest is Chrome tabs)
-```
-
-</td>
-</tr>
-</table>
 
 </div>
 
