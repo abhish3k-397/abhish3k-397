@@ -11,7 +11,8 @@
 <div align="left">
 
 ```
-abhishek@hyprland ~> neofetch 
+┌──(abhishek㉿hyprland)-[~]
+└─$ neofetch
 
                    -`                     abhishek@hyprland
                   .o+`                    -----------------
@@ -20,7 +21,7 @@ abhishek@hyprland ~> neofetch
                `+oooooo:                  Kernel: 6.9.1-arch1-1-custom
                -+oooooo+:                 Uptime: 3 days, 47 reboots (it's fine)
              `/:-:++oooo+:                Packages: 1337 (pacman), 420 (aur)
-            `/++++/+++++++:               Shell:  3.7.0
+            `/++++/+++++++:               Shell: fish 3.7.0
            `/++++++++++++++:              WM: Hyprland (Wayland)
           `/+++ooooooooooooo/`            Theme: Tokyonight-Dark
          ./ooosssso++osssssso+`           Terminal: kitty
