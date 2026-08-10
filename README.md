@@ -20,7 +20,7 @@ abhishek@hyprland ~> neofetch
                `+oooooo:                  Kernel: 6.9.1-arch1-1-custom
                -+oooooo+:                 Uptime: 3 days, 47 reboots (it's fine)
              `/:-:++oooo+:                Packages: 1337 (pacman), 420 (aur)
-            `/++++/+++++++:               Shell: zsh 5.9
+            `/++++/+++++++:               Shell:  3.7.0
            `/++++++++++++++:              WM: Hyprland (Wayland)
           `/+++ooooooooooooo/`            Theme: Tokyonight-Dark
          ./ooosssso++osssssso+`           Terminal: kitty
